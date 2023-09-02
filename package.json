@@ -5,6 +5,7 @@
   "author": "Ebenezer Don",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
+    "git": "^0.1.5",
     "node-sass": "^8.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
